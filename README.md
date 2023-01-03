@@ -6,12 +6,12 @@
 - Timeline to completion: 5 days
 - SnackExpoURLs: https://snack.expo.dev/@mrsdo/mrsdo-vacation-listings-mobile & https://snack.expo.dev/@mrsdo/mdolcereactnative
 ---
+
 Creating a simple project demonstrating technologies used to build an interactive React Native via Snack.
 When developing this application there were a variety of source codes, tutorials, books and web articles analyzed to explore the most effective way for development on a short scale.
 
-## Environment Features
-A simplified explanation of packages used in this project.
-
+## Key Environment Features
+A list of packages used in this project.
 
 | Package                            | Site URL                               |
 |------------------------------------|----------------------------------------|
@@ -20,14 +20,40 @@ A simplified explanation of packages used in this project.
 | `brew watch`                       | https://formulae.brew.sh/formula/watch |
 | `react-native-paper`               | https://reactnativepaper.com/          |
 
+---
+## Giving Credit
 
-## Resources 
+> Images used as background by graphics4u | https://elements.envato.com/user/graphics4u/graphics
 
-### Functional
+| Home | OnBoarding | Login | Registration |
+| --- | --- | --- | --- |
+| [![Graphics4u @ Envator](https://elements-preview-images-0.imgix.net/465e8bec-74a2-4328-b83e-8dce481deeb7?auto=compress%2Cformat&fit=max&w=2740&s=48c4413cd7796d42a682bc7caa921a51)](https://elements.envato.com/user/graphics4u/graphics) | [![Graphics4u @ Envator](https://elements-preview-images-0.imgix.net/fbe9ab95-7611-4429-85e8-4c92ecee6469?auto=compress%2Cformat&fit=max&w=2740&s=ab4f304de54f29aa6199ac458d338b36)](https://elements.envato.com/user/graphics4u/graphics) |[![Graphics4u @ Envator](https://elements-preview-images-0.imgix.net/394c4f47-f00c-4543-a511-084dc4738883?auto=compress%2Cformat&fit=max&w=2740&s=770b94d507d26bc9746c0bd82f3ddff3)](https://elements.envato.com/user/graphics4u/graphics) | [![Graphics4u @ Envator](https://elements-preview-images-0.imgix.net/d54e1cf2-69e7-47dd-8f7f-4cf55f479535?auto=compress%2Cformat&fit=max&w=2740&s=665f47b9bd44e8b59fbec86e22da4161)](https://elements.envato.com/user/graphics4u/graphics) |
+
+
+## Resources & Inspiration
+
+<details>
+ <summary>Functional Concepts</summary>
+
+
 > React Navigation | https://reactnavigation.org/docs/getting-started/
 
-> Const vs Function | https://dev.to/ugglr/react-functional-components-const-vs-function-2kj9
+> Gatsby plugin for react-native-web | https://www.gatsbyjs.com/plugins/gatsby-plugin-react-native-web/#gatsby-plugin-for-react-native-web
 
-### Design & UI
+> Const vs Function | https://dev.to/ugglr/react-functional-components-const-vs-function-2kj9
+</details>
+
+<details>
+ <summary>Design & UI</summary>
+
 
 > Material Design Icons | https://materialdesignicons.com/
+
+
+> Adobe Express to create SVG | https://www.adobe.com/express/
+
+
+> Material Design Icons | https://materialdesignicons.com/
+
+
+</details>
