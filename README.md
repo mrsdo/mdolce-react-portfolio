@@ -45,9 +45,15 @@ A list of packages used in this project.
 
 <details>
  <summary>Design & UI</summary>
- 
+
 
 > Material Design Icons | https://materialdesignicons.com/
 
+
 > Adobe Express to create SVG | https://www.adobe.com/express/
+
+
+> Material Design Icons | https://materialdesignicons.com/
+
+
 </details>
