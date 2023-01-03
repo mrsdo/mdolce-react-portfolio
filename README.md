@@ -1,9 +1,9 @@
 # React Mobile Portfolio
 - Version 1.0.0
-- Last Updated December 2022
+- Last Updated January 3, 2023
 - Author: Martinique Dolce
 - Bootcamp: Nucamp
-- Timeline to completion: 7 days
+- Timeline to completion: 5 days
 - SnackExpoURLs: https://snack.expo.dev/@mrsdo/mrsdo-vacation-listings-mobile & https://snack.expo.dev/@mrsdo/mdolcereactnative
 ---
 Creating a simple project demonstrating technologies used to build an interactive React Native via Snack.
